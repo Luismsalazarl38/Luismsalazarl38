@@ -1,42 +1,34 @@
-# Hi there! 👋 I'm Luis Miguel
+# Hello! 👋 I'm Luis Miguel
 
-**Fullstack Developer | Mobile Dev Leader | Plugin Developer**
+Based in Pereira, Colombia, I am a Fullstack Developer with extensive experience in agile environments. I specialize in both web and mobile development and am passionate about competitive programming. My strengths include:
 
-I specialize in building scalable and efficient web and mobile applications. With expertise in a wide range of technologies and a track record of success, I am passionate about leveraging my skills to create innovative solutions.
+- **Laravel**
+- **Angular**
+- **React**
+- **Express**
+- **AWS**
+- **Machine Learning**
+- **Vue.js**
 
-## 🌟 Skills and Technologies
+## 📈 My GitHub Stats
 
-- **Frontend**: React, React Native, Flutter, Angular, Vue.js
+![Luis Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luismsalazarl38&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+
+![Luis Miguel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismsalazarl38&layout=compact&theme=dark)
+
+
+## Technologies That I Know
+
+- **Frontend**: React, Vue.js, Angular, Svelte
 - **Backend**: Node.js, Express.js, NestJS, Django, Laravel
-- **Cloud Platforms**: AWS, Google Cloud, Azure
-- **DevOps**: Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
-- **Databases**: MySQL, PostgreSQL, SQLite, DynamoDB, MongoDB, Aurora
+- **Mobile Development**: React Native, Flutter, Swift, Kotlin
+- **Cloud**: AWS, Google Cloud, Azure
+- **DevOps**: Docker, Kubernetes
+- **Databases**: MySQL, PostgreSQL, SQLite, MariaDB, MongoDB
+- **Machine Learning**: Python, TensorFlow
 
-## 🚀 Achievements
 
-- Developed e-commerce platforms that achieved international reach and high client satisfaction.
-- Improved mobile app user retention by 30% and downloads by 25%.
-- Reduced app crash rate by 40% through code optimization.
-- Boosted client sales by 37% with a commercial plugin, and reduced complaints by 61%.
-
-## 💼 Experience
-
-### **Mobile Development Leader** - Freelancer (Apr 2021 - Jul 2023)
-Designed and maintained iOS and Android applications using Swift, Kotlin, and Flutter. Achieved significant improvements in user experience, app performance, and crash rate reduction. Led code reviews and mentored junior developers.
-
-### **Plugin Developer for Commercial Sales** - Express ING (Aug 2023 - Present)
-Developed and maintained commercial plugins with a focus on enhancing functionality and user experience. Created a high-impact e-commerce plugin that increased client sales and implemented automatic update systems to improve security and efficiency.
-
-## 🌱 Currently Working On
-
-- Enhancing commercial plugins and exploring new technologies to improve user experience and performance.
-
-## 📫 Contact Me
+## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/luis-miguel-salazar-londo%C3%B1o-5a5898273/)
-- [Email](mailto:luis.salazar38312@gmail.com)
-
-
----
-
-Feel free to explore my projects and repositories. Thank you for visiting my profile! 😊
+- [Instagram](https://www.instagram.com/luismsalazarl//)
