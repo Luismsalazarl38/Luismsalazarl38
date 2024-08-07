@@ -12,8 +12,7 @@ Based in Pereira, Colombia, I am a Fullstack Developer with extensive experience
 
 ## 📈 My GitHub Stats
 
-| ![Luis Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luismsalazarl38&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Luis Miguel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismsalazarl38&layout=compact&theme=dark) |
-| --- | --- |
+| ![Luis Miguel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismsalazarl38&layout=compact&theme=dark) |
 
 ## Technologies That I Know
 
