@@ -31,4 +31,4 @@ Based in Pereira, Colombia, I am a Fullstack Developer with extensive experience
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/luis-miguel-salazar-londo%C3%B1o-5a5898273/)
-- [Instagram](https://www.instagram.com/luismsalazarl//)
+- [Instagram](https://www.instagram.com/luismsalazarl/)
