@@ -33,8 +33,9 @@ Developed and maintained commercial plugins with a focus on enhancing functional
 
 ## 📫 Contact Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/luis-miguel-salazar-londo%C3%B1o-5a5898273/))
+- [LinkedIn](https://www.linkedin.com/in/luis-miguel-salazar-londo%C3%B1o-5a5898273/)
 - [Email](mailto:luis.salazar38312@gmail.com)
+
 
 ---
 
